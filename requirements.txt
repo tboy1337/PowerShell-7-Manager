@@ -1,0 +1,9 @@
+# PowerShell Manager Dependencies
+# Note: Most dependencies are built-in Python modules
+# Only specific packages needed for enhanced functionality
+
+# For advanced Windows API interactions (optional)
+pywin32
+
+# For enhanced file operations (optional)
+pathlib2 
