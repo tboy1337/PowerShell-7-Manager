@@ -17,7 +17,7 @@ echo Python detected. Starting PowerShell 7 manager...
 echo.
 
 :: Run the PowerShell manager
-python powershell_manager.py
+py powershell_manager.py
 
 echo.
 echo ====================================================
